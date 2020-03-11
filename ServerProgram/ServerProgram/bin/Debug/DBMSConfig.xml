@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 sp1 (http://www.altova.com) by End User (free.org) -->
+<DBMS>
+	<CONN>
+		<STRCONN>
+			Data Source=DESKTOP-H4VBRJN;Initial Catalog=SERVER;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
+		</STRCONN>
+		<LOADCMD>
+			SELECT DATE, BARCODE, ADDRESS FROM dbo.SERVER
+		</LOADCMD>
+		<UPDATECMD>
+			INSERT INTO dbo.SERVER (DATE, BARCODE, ADDRESS) VALUES (@param1, @param2, @param3)
+		</UPDATECMD>
+	</CONN>
+</DBMS>

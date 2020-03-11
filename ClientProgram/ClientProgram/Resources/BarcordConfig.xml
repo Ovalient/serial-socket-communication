@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 sp1 (http://www.altova.com) by End User (free.org) -->
+<Barcords>
+	<Barcord Id="0001">
+		<Name>IG</Name>
+		<Type>Sedan</Type>
+		<Size>Full-size</Size>
+		<Fuel>Fossil</Fuel>
+	</Barcord>
+	<Barcord Id="0002">
+		<Name>DN8</Name>
+		<Type>Sedan</Type>
+		<Size>Medium</Size>
+		<Fuel>Fossil</Fuel>
+	</Barcord>
+	<Barcord Id="0003">
+		<Name>AD</Name>
+		<Type>Sedan</Type>
+		<Size>Semi-medium</Size>
+		<Fuel>Fossil</Fuel>
+	</Barcord>
+	<Barcord Id="0004">
+		<Name>AE</Name>
+		<Type>Hatchback</Type>
+		<Size>Semi-medium</Size>
+		<Fuel>Hybrid</Fuel>
+	</Barcord>
+	<Barcord Id="0005">
+		<Name>PD</Name>
+		<Type>Hatchback</Type>
+		<Size>Semi-medium</Size>
+		<Fuel>Fossil</Fuel>
+	</Barcord>
+	<Barcord Id="0006">
+		<Name>JS</Name>
+		<Type>Coupe</Type>
+		<Size>Semi-medium</Size>
+		<Fuel>Fossil</Fuel>
+	</Barcord>
+	<Barcord Id="0007">
+		<Name>LX2</Name>
+		<Type>SUV</Type>
+		<Size>Full-size</Size>
+		<Fuel>Fossil</Fuel>
+	</Barcord>
+	<Barcord Id="0008">
+		<Name>TM</Name>
+		<Type>SUV</Type>
+		<Size>Medium</Size>
+		<Fuel>Fossil</Fuel>
+	</Barcord>
+	<Barcord Id="0009">
+		<Name>TL</Name>
+		<Type>SUV</Type>
+		<Size>Semi-medium</Size>
+		<Fuel>Fossil</Fuel>
+	</Barcord>
+	<Barcord Id="0010">
+		<Name>OS</Name>
+		<Type>SUV</Type>
+		<Size>Compact</Size>
+		<Fuel>Fossil, Electric</Fuel>
+	</Barcord>
+	<Barcord Id="0011">
+		<Name>FE</Name>
+		<Type>SUV</Type>
+		<Size>Semi-medium</Size>
+		<Fuel>Hydrogen</Fuel>
+	</Barcord>
+</Barcords>

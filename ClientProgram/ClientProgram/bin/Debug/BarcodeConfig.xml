@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 sp1 (http://www.altova.com) by End User (free.org) -->
+<BarcodeConfig>
+	<SerialPort>
+		<PortName>COM5</PortName>
+		<BaudRate>4800</BaudRate>
+		<Parity>None</Parity>
+		<DataBits>8</DataBits>
+		<StopBits>One</StopBits>
+	</SerialPort>
+	<Barcode Id="0001">
+		<Name>IG</Name>
+	</Barcode>
+	<Barcode Id="0002">
+		<Name>DN8</Name>
+	</Barcode>
+	<PID Id="05">
+		<Text>Engine Coolant Temperature</Text>
+	</PID>
+	<PID Id="0A">
+		<Text>Fuel Pressure</Text>
+	</PID>
+	<PID Id="0B">
+		<Text>Intake Manifold Pressure</Text>
+	</PID>
+	<PID Id="0C">
+		<Text>Engine RPM</Text>
+	</PID>
+	<PID Id="0D">
+		<Text>Vehicle speed</Text>
+	</PID>
+	<PID Id="0E">
+		<Text>Timing advance</Text>
+	</PID>
+	<PID Id="0F">
+		<Text>Intake air temperature</Text>
+	</PID>
+	<PID Id="10">
+		<Text>MAF air flow rate</Text>
+	</PID>
+	<PID Id="11">
+		<Text>Throttle position</Text>
+	</PID>
+	<PID Id="1F">
+		<Text>Run time since engine start</Text>
+	</PID>
+	<PID Id="23">
+		<Text>Fuel Pressure (dissel)</Text>
+	</PID>
+	<PID Id="2F">
+		<Text>Fuel Level Input</Text>
+	</PID>
+	<PID Id="33">
+		<Text>Barometric pressure</Text>
+	</PID>
+	<PID Id="46">
+		<Text>Ambient air temperature</Text>
+	</PID>
+</BarcodeConfig>

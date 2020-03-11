@@ -1,0 +1,35 @@
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe.config
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\bin\Debug\ClientProgram.pdb
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\obj\Debug\ClientProgram.BarcodeReader.resources
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\obj\Debug\ClientProgram.ClientProgram.resources
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\obj\Debug\ClientProgram.Properties.Resources.resources
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\obj\Debug\ClientProgram.csproj.GenerateResource.Cache
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\obj\Debug\ClientProgram.exe
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\obj\Debug\ClientProgram.pdb
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\obj\Debug\ClientProgram.csprojResolveAssemblyReference.cache
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ClientProgram\ClientProgram\bin\Debug\System.Data.SQLite.pdb
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe.config
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\obj\Debug\ClientProgram.exe
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\obj\Debug\ClientProgram.pdb
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\bin\Debug\ClientProgram.pdb
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\bin\Debug\System.Data.SQLite.pdb
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\obj\Debug\ClientProgram.csprojResolveAssemblyReference.cache
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\obj\Debug\ClientProgram.BarcodeReader.resources
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\obj\Debug\ClientProgram.ClientProgram.resources
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\obj\Debug\ClientProgram.Properties.Resources.resources
+D:\SVN\trunk\Test\ClientProgram\ClientProgram\obj\Debug\ClientProgram.csproj.GenerateResource.Cache
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe.config
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\obj\Debug\ClientProgram.exe
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\obj\Debug\ClientProgram.pdb
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\bin\Debug\ClientProgram.pdb
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\bin\Debug\System.Data.SQLite.pdb
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\obj\Debug\ClientProgram.csprojResolveAssemblyReference.cache
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\obj\Debug\ClientProgram.BarcodeReader.resources
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\obj\Debug\ClientProgram.ClientProgram.resources
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\obj\Debug\ClientProgram.Properties.Resources.resources
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\PT\ClientProgram\ClientProgram\obj\Debug\ClientProgram.csproj.GenerateResource.Cache

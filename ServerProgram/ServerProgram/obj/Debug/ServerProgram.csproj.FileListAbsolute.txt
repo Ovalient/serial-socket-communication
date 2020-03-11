@@ -1,0 +1,20 @@
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe.config
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\bin\Debug\ServerProgram.pdb
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\obj\Debug\ServerProgram.ServerProgram.resources
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\obj\Debug\ServerProgram.Properties.Resources.resources
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\obj\Debug\ServerProgram.csproj.GenerateResource.Cache
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\obj\Debug\ServerProgram.exe
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\obj\Debug\ServerProgram.pdb
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\obj\Debug\ServerProgram.csprojResolveAssemblyReference.cache
+C:\Users\ksl36\OneDrive\문서\Visual Studio 2013\Projects\Version2.0\ServerProgram\ServerProgram\obj\Debug\ServerProgram.csproj.ResolveComReference.cache
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe.config
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\obj\Debug\ServerProgram.csproj.ResolveComReference.cache
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\obj\Debug\ServerProgram.exe
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\obj\Debug\ServerProgram.pdb
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\bin\Debug\ServerProgram.pdb
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\obj\Debug\ServerProgram.csprojResolveAssemblyReference.cache
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\obj\Debug\ServerProgram.ServerProgram.resources
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\obj\Debug\ServerProgram.Properties.Resources.resources
+D:\SVN\trunk\Test\ServerProgram\ServerProgram\obj\Debug\ServerProgram.csproj.GenerateResource.Cache
